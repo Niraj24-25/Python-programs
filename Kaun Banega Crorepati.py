@@ -55,3 +55,4 @@ for i in range(0, len(questions)):
 
    
 print(f"The money which you can take away is {money}")
+print("hello")
